@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/home/static/css/main.0ebbe897.css",
-    "main.js": "/home/static/js/main.b0ec5dc5.js",
+    "main.js": "/home/static/js/main.7fcbc52e.js",
     "static/js/453.0d8e8dbf.chunk.js": "/home/static/js/453.0d8e8dbf.chunk.js",
-    "static/media/mma.mp4": "/home/static/media/mma.804643a167a3e92f2e60.mp4",
-    "static/media/karate.mp4": "/home/static/media/karate.d5e515f839aa967ea9e1.mp4",
+    "static/media/karate.mp4": "/home/static/media/karate.d43ad99ff2ed6b76ef44.mp4",
     "static/media/test.mp4": "/home/static/media/test.7d03c14e4fba910d4dea.mp4",
+    "static/media/mma.mp4": "/home/static/media/mma.b64b1335981c4db3ee8b.mp4",
     "static/media/grappling.MP4": "/home/static/media/grappling.c369afc043eda1eca138.MP4",
     "static/media/boxing_and_kickboxing.mp4": "/home/static/media/boxing_and_kickboxing.1a465f83c32c20855671.mp4",
     "static/media/founder.jpg": "/home/static/media/founder.55a42e0e4d71e48ef37d.jpg",
@@ -18,11 +18,11 @@
     "static/media/header-icon.png": "/home/static/media/header-icon.a18bc3a7bb66d41bcfdf.png",
     "index.html": "/home/index.html",
     "main.0ebbe897.css.map": "/home/static/css/main.0ebbe897.css.map",
-    "main.b0ec5dc5.js.map": "/home/static/js/main.b0ec5dc5.js.map",
+    "main.7fcbc52e.js.map": "/home/static/js/main.7fcbc52e.js.map",
     "453.0d8e8dbf.chunk.js.map": "/home/static/js/453.0d8e8dbf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ebbe897.css",
-    "static/js/main.b0ec5dc5.js"
+    "static/js/main.7fcbc52e.js"
   ]
 }
